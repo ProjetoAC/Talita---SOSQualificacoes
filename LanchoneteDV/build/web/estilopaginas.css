@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/10/2016, 13:52:16
+    Author     : Gilvan Honorato
+*/
+body {
+    font-family: Verdana, Arial;
+    font-size: medium;
+    padding: 50px;
+    color: #555;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 1.5em;
+    color: #be7429;
+    font-weight: normal;
+    
+}
+
+table {
+    width: 580px;
+    padding: 20px;
+    
+}
+
+th {
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}
+
+.glyphicon {
+
+}
+
+.glyphicon-pencil {
+
+}
